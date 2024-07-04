@@ -1,0 +1,48 @@
+NAME: ERASMUS E OBETH
+REGISTRATION NUMBER:  U17CO1017
+PROJECT TITLE: DEVELOPMENT  OF A LEARNING MANAGEMENT SYSTEM (LMS) WITH INTERGRATED 3D MODEL INTERACTION
+
+PROBLEM STATEMET:
+In modern educational environments, learners, especially in STEM fields, struggle to comprehend complex concepts due to limitations in traditional instructional materials. Textbooks and 2D visuals often fail to convey certain information effectively, hindering comprehension and retention. Existing learning management systems (LMS) lack the utilization of 3D models to enhance learning experiences. This project seeks to bridge this gap by creating an LMS platform that incorporates 3D models to improve comprehension, engagement, and retention among learners.
+
+AIM AND OBJECTIVES:
+To develop a prototype LMS with 3D model integration to enhance comprehension of complex concepts especially in STEM fields, making learning more engaging and effective.
+
+a)Reasearch and Requirement Analysis
+Research and Review existing technologies for LMS, 3D models intergration and analyze user requirements.
+b)System Design
+Design system architecture, UI/UX, database, API and development process/env for the LMS.
+c)Implementation (Coding)
+Develop a prototype of the LMS and integrate 3D models into the platform.
+d)Testing
+Verify and validate software for requirements, usability and incorporate user feedback  to improve the system.
+e)Deployment
+Prepare the LMS for real-world use on any server and ensure accessibility across plartforms.
+f)Documentation
+Create  user manual, technical and project documentation for future development .
+PROGRESS :
+a)Reasearch and Requirement Analysis
+Progress: Finished Major Iteration
+Researched and Reviewed  LMS, 3D models intergration fundamental concepts. 
+Analyzed user requirements to derive system requirements and specifications for my design.
+b)System Design
+Progress: Finished Major Iteration
+Derived design for system architecture, UI/UX, database ER diagram solution, API endpoints and technology stack and process to use based on requirements and specifications document.
+c)Implementation (Coding)
+Progress: Active and in Progress using Iterative V Model to develop API endpoints, Home, Dashboard, Profile, 3D interaction, Upload, Course catalog, view and Administration Pages.
+d)Testing
+Progress: Unit testing in Implementation stage and changes to UI/UX based on user survey.
+e)Deployment
+Progress: Following guidlines outlined in design, Docker Container Development
+f)Documentation
+Progress: Chapter three In progress, Finished user interaction flow and submitted chapter One and Two for corrections and approval  
+
+EXPECTED DELIVERABLES:
+a)Functional LMS with Integrated 3D model interaction ready for deployement on server.
+b) with a user-friendly interface.
+c)Requirement Specification Document (RSD)
+d)System Design Document inluding UI/UX, Database Schema, system architecture, API.
+e)Documentation: user manual, source code and reference, and project documentation 
+
+ENGR  RISIKAT F. ADEBIYI						DATE
+(PROJECT SUPERVISOR)

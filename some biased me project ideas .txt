@@ -1,0 +1,52 @@
+combine this into an LMS with feautures
+will be taken as final year compeng project topic
+
+E-Learning Platform Enhancement: Enhance ABU Zaria's existing e-learning platform with features like personalized learning paths, interactive quizzes, and real-time progress tracking to improve the quality of online education
+
+Online Examination System: Develop an online examination system for ABU Zaria, allowing students to take exams remotely while ensuring security, integrity, and fairness.
+
+Student Attendance Monitoring System: Design a system to automate student attendance tracking using biometric authentication or RFID technology, providing real-time attendance data to faculty and administration.
+
+Gamified Learning Application: Create a gamified learning application that uses game mechanics and incentives to motivate students to engage with course materials, complete assignments, and achieve learning objectives.
+
+Automated Grading System for Programming Assignments: Develop a system that automates the grading of programming assignments using automated test cases, code analysis tools, and plagiarism detection algorithms, to streamline the grading process for instructors and provide timely feedback to students.
+
+Student Project Showcase Platform: Design a platform for showcasing student projects, research, and portfolios, providing a centralized hub for students to showcase their work, collaborate with peers, and connect with potential employers or collaborators.
+
+Online Exam Proctoring System: Develop a system for proctoring online exams, using technologies such as facial recognition, keystroke analysis, and screen monitoring to ensure exam integrity and prevent cheating in remote assessment settings.
+
+Online Training and Certification Platform: Design a platform for offering online training courses and certification programs in specialized areas of computer engineering, providing students and professionals with opportunities for skills development and career advancement.
+
+Develop a system for collecting and analyzing feedback from students on faculty teaching effectiveness, course content, and classroom experiences, to support faculty development and continuous improvement efforts.
+
+Computer Engineering Curriculum Visualization Tool: Build a visualization tool that maps out the computer engineering curriculum, illustrating course dependencies, prerequisite sequences, and elective options, to help students plan their academic pathways more effectively.
+
+Secure Online Exam Delivery Platform: Implement secure online exam delivery mechanisms, including encryption, authentication, and proctoring features, to ensure the integrity and confidentiality of online exams while allowing for remote assessment.
+
+Gamified Learning Management System: Implement gamification elements such as badges, leaderboards, and achievement levels into the department's learning management system, motivating students to engage with course materials and track their progress.
+
+Personalized Learning Path Recommender: Build an AI system that analyzes students' learning preferences, strengths, and weaknesses to recommend personalized learning paths and resources, helping students achieve their academic goals more effectively.
+
+AI-Powered Study Group Matchmaker: Develop an AI-driven platform that matches students with compatible study groups based on their academic interests, learning styles, and availability, facilitating collaboration and peer support in academic pursuits.
+
+Interactive Educational Modules: Create interactive educational modules using CGI and Blender to teach complex concepts or practical skills relevant to the department's curriculum. These modules can include interactive simulations, quizzes, and demonstrations to enhance student engagement and learning outcomes.
+
+Student Feedback and Evaluation System: Develop a comprehensive system for collecting and analyzing feedback from students on courses, instructors, and overall learning experiences, providing actionable insights for curriculum improvement and faculty development.
+
+
+
+Combine this into a mobile AR app with features
+
+Campus Navigation App: Develop a mobile app that provides navigation assistance for students and visitors within the ABU Zaria campus, including indoor navigation for large buildings and real-time updates on events and academic activities.
+
+Campus Navigation and Wayfinding App: Develop a mobile app that provides indoor navigation and wayfinding features to help students and visitors navigate the campus easily, locate buildings, classrooms, and facilities.
+
+Architectural Visualization of Campus Development Projects: Produce photorealistic architectural visualizations of proposed campus development projects, such as new buildings, renovations, or landscaping plans. These visualizations can help stakeholders, including university administrators, donors, and community members, better understand and support the projects.
+
+
+Virtual Reality (VR) Campus Tours: Develop VR campus tours using CGI and Blender, allowing prospective students, alumni, and visitors to explore the university campus in an immersive virtual environment. These tours can provide a unique and memorable experience for showcasing campus amenities and attractions.
+
+Augmented Reality (AR) Campus Navigation App: Develop an AR-based navigation app for navigating the university campus, integrating CGI models of campus buildings and landmarks with real-world GPS data to provide users with directions and information in real-time.
+
+Virtual Campus Environment: Develop a virtual representation of the university campus using CGI and Blender, allowing users to explore key buildings, landmarks, and facilities in a 3D environment. This virtual campus can be used for orientation, navigation, and promotional purposes.
+

@@ -1,0 +1,78 @@
+The Software Development Life Cycle (SDLC) is a framework used for developing software in a systematic and organized manner. It includes several phases, each with specific tasks and deliverables. The standard SDLC phases typically include:
+
+1. **Requirement Analysis**: 
+   - **Objective**: Gather and analyze the software requirements from stakeholders.
+   - **Activities**: 
+     - Conduct interviews, surveys, and workshops.
+     - Document the requirements.
+     - Create requirement specifications.
+   - **Deliverables**: 
+     - Requirement Specification Document (RSD).
+
+2. **System Design**:
+   - **Objective**: Define the architecture, components, interfaces, and data for the system.
+   - **Activities**:
+     - Create high-level design (HLD) documents.
+     - Develop low-level design (LLD) documents.
+     - Design database schema.
+   - **Deliverables**:
+     - High-Level Design Document (HLD).
+     - Low-Level Design Document (LLD).
+     - Database Design Document.
+
+3. **Implementation (Coding)**:
+   - **Objective**: Convert the system design into source code.
+   - **Activities**:
+     - Write code based on design documents.
+     - Perform unit testing.
+   - **Deliverables**:
+     - Source Code.
+     - Unit Test Cases and Results.
+
+4. **Testing**:
+   - **Objective**: Verify that the software meets the requirements and is free of defects.
+   - **Activities**:
+     - Conduct various tests (e.g., integration testing, system testing, acceptance testing).
+     - Report and fix bugs.
+   - **Deliverables**:
+     - Test Plan.
+     - Test Cases.
+     - Test Reports.
+     - Defect Logs.
+
+5. **Deployment**:
+   - **Objective**: Make the software available for use.
+   - **Activities**:
+     - Install the software in the production environment.
+     - Conduct user training.
+     - Perform deployment verification.
+   - **Deliverables**:
+     - Deployed System.
+     - Deployment Guide.
+     - User Manuals.
+
+6. **Maintenance**:
+   - **Objective**: Ensure the software continues to operate correctly and efficiently.
+   - **Activities**:
+     - Monitor the system for bugs and performance issues.
+     - Provide updates and enhancements.
+     - Handle user support and feedback.
+   - **Deliverables**:
+     - Maintenance Reports.
+     - Updated Documentation.
+     - Patches and Updates.
+
+### SDLC Models
+
+Several SDLC models outline how these phases are organized, including:
+
+- **Waterfall Model**: A linear and sequential approach where each phase must be completed before the next begins.
+- **Iterative Model**: Involves repeating the SDLC phases iteratively to refine and improve the software.
+- **Spiral Model**: Combines iterative development with risk management, focusing on early identification and mitigation of risks.
+- **Agile Model**: Emphasizes flexibility, customer collaboration, and rapid delivery of functional software through iterative cycles called sprints.
+- **V-Model (Verification and Validation Model)**: An extension of the waterfall model that includes corresponding testing phases for each development stage.
+
+Each model has its advantages and is suitable for different types of projects and organizational needs.
+
+
+ 

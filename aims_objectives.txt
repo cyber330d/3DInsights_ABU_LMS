@@ -1,0 +1,82 @@
+AIM
+This project aims to design and develop a prototype Learning Management System (LMS) with integrated 3D model interaction to enhance student comprehension of complex course content and concepts, particularly in STEM (Science, Technology, Engineering, and Mathematics) education and make learning experience more engaging, accessible and  effecive.
+
+
+
+
+**Project Objectives:**
+
+1. Research existing LMS platforms and 3D modeling technologies to identify strengths, weaknesses, and opportunities for innovation.
+
+1. Design and develop a user-friendly interface for the LMS.
+2. Design an intuitive user interface for the LMS, prioritizing ease of navigation and accessibility for users of all skill levels.
+3. Develop tools and features for integrating 3D models seamlessly into the learning environment, ensuring compatibility across devices and platforms.
+7. Provide analytics tools to track student engagement and progress.
+
+
+
+2. Integrate 3D model interaction functionality seamlessly into the LMS platform.
+
+
+
+
+4. Implement features for instructors to upload custom 3D models and content.
+3. Create a repository of 3D models relevant to various subjects and disciplines.
+5. Create a comprehensive library of 3D models covering various subjects and topics to support diverse learning objectives.
+
+7. Conduct usability testing and gather feedback from students and instructors to iteratively improve the LMS interface and functionality.
+
+
+
+
+**Project Objectives:**
+
+1. Research existing STEM education initiatives and innovative teaching methodologies to identify best practices and strategies for integrating interactive and immersive learning experiences into STEM curriculum.
+
+2. Design an intuitive and user-friendly interface for the Interactive Learning Management System (LMS) that caters to the unique needs and preferences of STEM educators and students, with a focus on promoting active learning and inquiry-based instruction.
+
+Ensure scalability, interoperability, and sustainability of the Interactive Learning Management System to accommodate future updates, technological advancements
+
+3. Develop tools and features within the LMS platform that enable seamless integration of 3D models, simulations, and virtual experiments to enhance students' understanding of complex scientific and mathematical concepts.
+
+5. Create a repository of high-quality 3D models and educational content covering a wide range of STEM topics and disciplines, ensuring alignment with national and international STEM education standards and guidelines.
+
+6. Conduct usability testing and gather feedback from STEM educators and students to iteratively improve the functionality, usability, and effectiveness of the Interactive Learning Management System in facilitating STEM learning experiences.
+
+
+9. Ensure scalability, interoperability, and sustainability of the Interactive Learning Management System to accommodate future updates, technological advancements, and evolving needs in STEM education.
+
+
+**Objectives:**
+
+1. **Research Review:**
+   - Conduct a comprehensive literature review on existing Learning Management Systems (LMS) and 3D modeling technologies relevant to STEM education.
+   
+2. **User Requirement Analysis:**
+   - Identify the specific requirements and preferences of undergraduate students and educators in STEM disciplines regarding interactive learning tools and resources.
+   
+3. **System Design:**
+   - Design an intuitive user interface for the Interactive LMS prototype, focusing on usability and accessibility for undergraduate users.
+   
+4. **3D Model Integration:**
+   - Investigate methods for integrating 3D models, simulations, and interactive content into the LMS platform to enhance visual learning experiences.
+   
+5. **Prototype Development and 3D Model Integration:**
+   - Develop a functional prototype of the Interactive LMS with basic features such as user authentication, course management, and 3D model viewing capabilities.
+   
+6. **Content Creation:**
+   - Create a selection of 3D models and educational content covering fundamental concepts in STEM disciplines suitable for undergraduate learners.
+   
+7. **Usability Testing:**
+   - Conduct usability testing sessions with undergraduate students and gather feedback on the prototype's interface, features, and overall user experience.
+   
+8. **Feedback Incorporation:**
+   - Analyze usability testing feedback and iterate on the prototype design and functionality to address user preferences and improve usability.
+   
+9. **Documentation:**
+   - Prepare comprehensive documentation, including user manuals and technical specifications, to facilitate the understanding and future development of the Interactive LMS prototype.
+   
+10. **Presentation and Evaluation:**
+    - Present the developed prototype and project outcomes to academic faculty and peers, and evaluate its effectiveness in enhancing student engagement and learning outcomes in STEM education through qualitative feedback and assessment.
+
+
